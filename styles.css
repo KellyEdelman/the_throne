@@ -1,0 +1,35 @@
+body {
+  border: 15px groove #555;
+  padding: 30px;
+  box-sizing: border-box; /* prevents layout shifting */
+}
+
+.the_throne * {
+  margin: 0;
+  padding: 0;
+}
+
+.the_throne h1 {
+  font-size: 5em;
+  color: rgb(104, 8, 104);
+  text-align: center;
+  margin: 50px 0.1em;
+}
+
+.the_throne h2 {
+  font-size: 2.5em;
+  color: #333;
+  text-align: center;
+  margin: -5px 0.2em;
+}
+
+img {
+  display: block;
+  margin: 0px 5px 0px 5px;
+}
+
+.the_throne_jpgs {
+  margin-top: 5px;
+  padding-top: 0;
+  margin-bottom: -5px;
+}
