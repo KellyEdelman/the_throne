@@ -23,13 +23,21 @@ body {
   margin: -5px 0.2em;
 }
 
-img {
-  display: block;
-  margin: 0px 5px 0px 5px;
-}
-
 .the_throne_jpgs {
   margin-top: 5px;
   padding-top: 0;
   margin-bottom: -5px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+section {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
 }
